@@ -69,5 +69,6 @@ After downloading, place the CSV file in a location of your choice and update th
 
 - The dashboard uses a static CSV file and does not support live data updates
 - Month-over-Month DAX growth could not be fully implemented due to multiple sales sharing the same date in the raw dataset — a Monthly Sale Amount Trend chart is used as a workaround
-- The Location (GPS coordinates) field contains many null values in the raw dataset; this is expected and handled gracefully by Power Query
+- The Location (GPS coordinates) field contains many null values in the raw dataset; this is expected and handled by Power Query
 - Power BI Desktop is Windows-only and is required to open the `.pbix` file
+- The map visual provided by the free version of Power BI has difficulty handling ambiguous town names so shows towns outside of Connecticut on the map
