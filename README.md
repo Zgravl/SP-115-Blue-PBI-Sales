@@ -1,7 +1,7 @@
 # SP-115 Power BI Blue — Real Estate Sales Performance Dashboard
 
 **CS 4850 | Section 02 | Spring 2026**
-**Kennesaw State University | Instructor: Sharon Perry**
+**Kennesaw State University**
 
 Katherine Nguyen | Zakkary Byrd
 
